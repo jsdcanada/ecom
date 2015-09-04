@@ -10,7 +10,7 @@ import org.openqa.selenium.By;
  * Created by Jagdish on 25/07/2015.
  */
 public class SmokeTestSuite extends BaseTest {
-    LoginPage loginPage=new LoginPage();
+    LoginPage loginPage=new LoginPage();;;
 
 
 
